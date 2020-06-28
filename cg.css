@@ -1,0 +1,58 @@
+body{
+	background-color: #eeeeff;
+	}
+
+.jumbotron{
+	transition: all 1.0s;
+   
+  background-color:rgba(20,20,100, 0.8);
+  text-align: center;
+  color:white;
+  font-size: 1.5rem;
+  letter-spacing: 1.2rem;
+	font-weight:20;
+	font-family: "Nunito", sans-serif;
+}
+.jumbotron h1{
+	font-size:4rem;
+}
+.nav{
+	background-color: white;
+  
+
+}
+.col-4{
+	color:red;
+}
+.boxs {
+	transition: all 1.0s;
+	height:200px;
+	border-radius:15%;
+}
+#ta{
+	color:white;
+}
+
+
+.hover{
+	
+	background-color:rgba(20, 20, 100, 0.8);
+	color: white;
+	text-decoration: none;
+	transition: all 1.0s;
+
+}
+.hover:hover{
+	color:white;
+}
+
+.hovered:hover{
+	text-decoration: none;
+}
+
+.selected{
+	background-color:rgba(20, 20, 100, 0.8);
+	border:1px solid;
+	color:white;
+	border-top-color:rgba(20, 20, 100, 0.8); 
+}
